@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+	width: 500px;
+	padding: 20px;
+}
+
+input {
+	margin: 10px 0;
+	padding: 10px;
+	
+}
+
+button {
+	padding: 10px;
+}
+
+.msg {
+	border: 1px solid red;
+	padding: 5px;
+	text-align: center;
+	font-weight: bold;
+}
